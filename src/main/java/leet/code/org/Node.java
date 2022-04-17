@@ -3,6 +3,9 @@ package leet.code.org;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Node class
+ */
 public class Node {
     char c;
     List<Node> next = new ArrayList<>();
